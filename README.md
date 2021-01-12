@@ -1,3 +1,5 @@
+# This repository is no longer maintained. Head over to [Sourceforge](https://sourceforge.net/projects/nubuilder/files/nuBuilder%204.5/) to download nuBuilder 4.5.
+ 
 === nuBuilder 4 ===
 
 Name: nuBuilder 4 - Standalone
